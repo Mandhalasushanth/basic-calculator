@@ -43,9 +43,9 @@ Open the project folder.
 
 Run index.html in your browser.
 
-
  ## 🌐 Live Demo
-👉 [Click here to view [basic-calculator](basic-calculator-ehlyx1n98-mandhalasushanths-projects.vercel.app)
+👉 [Click here to use the Calculator](https://basic-calculator-r5mpibr7k-mandhalasushanths-projects.vercel.app)
+
 
 
 📌 Future Enhancements
