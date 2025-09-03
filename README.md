@@ -45,7 +45,7 @@ Run index.html in your browser.
 
 
  ## 🌐 Live Demo
-👉 [Click here to view Weather App](https://weatherapp-kkfl-d127ng1ds-mandhalasushanths-projects.vercel.app)
+👉 [Click here to view [basic-calculator](basic-calculator-ehlyx1n98-mandhalasushanths-projects.vercel.app)
 
 
 📌 Future Enhancements
