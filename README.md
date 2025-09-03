@@ -43,8 +43,9 @@ Open the project folder.
 
 Run index.html in your browser.
 
-🌐 Live Demo
-👉 Live Demo – Weather App
+
+ 🌐 Live Demo
+👉 View Live on Vercel
 
 📌 Future Enhancements
 
