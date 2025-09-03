@@ -44,8 +44,9 @@ Open the project folder.
 Run index.html in your browser.
 
 
- 🌐 Live Demo
-👉 View Live on Vercel
+ ## 🌐 Live Demo
+👉 [Click here to view Weather App](https://weatherapp-kkfl-d127ng1ds-mandhalasushanths-projects.vercel.app)
+
 
 📌 Future Enhancements
 
